@@ -14,10 +14,10 @@ En este lab crearemos un lista ordenada.
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
-Dentro del <div> con clase “`css-exp`”, debajo del <p> donde se explica lo que es css: 
+Dentro del `<div>` con clase “`css-exp`”, debajo del `<p>` donde se explica lo que es css: 
 
-1. Agrega un <h5> que diga “Puntos clave:”
-2. Agrega una lista ordenada <ol> con los siguientes puntos clave:
+1. Agrega un `<h5>` que diga “Puntos clave:”
+2. Agrega una lista ordenada `<ol>` con los siguientes puntos clave:
 - Utilizamos reglas de CSS para seleccionar elementos de una página web y poder asignar estilos a esos elementos.
 - Utilizamos selectores para decirle a nuestras reglas de CSS a cuales elementos aplicarle estilos.
 3. Guarda tus cambios (Archivo > Guardar)
